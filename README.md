@@ -1,7 +1,7 @@
 # Agent AI Architecture — Solo Research Lab
 
 Personal research conducted with the rigor of an institutional lab.
-The pipeline is: read paper -> run experiment -> build project -> iterate.
+> The pipeline is: read paper -> run experiment -> build project -> iterate.
 
 ---
 
