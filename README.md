@@ -358,7 +358,7 @@ These do not exist in the original plan. They are added because an agent archite
 
 ---
 
-## Scope of This Curriculum vs. NVIDIA-Level Expectations
+## Scope of This Curriculum and Expectations
 
 What reading and completing this list covers:
 
