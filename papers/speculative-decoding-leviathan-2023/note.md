@@ -1,6 +1,6 @@
 # Fast Inference from Transformers via Speculative Decoding
 
-Yaniv Leviathan et al. | ICML | 2023 | Link: TBD
+Yaniv Leviathan et al. | ICML | 2023 | Link: https://arxiv.org/pdf/2211.17192.pdf
 
 Read: —
 Status: Not Started

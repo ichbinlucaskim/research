@@ -1,6 +1,6 @@
 # AgentBench: Evaluating LLMs as Agents
 
-Xiao Liu et al. | ICLR | 2024 | Link: TBD
+Xiao Liu et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2308.03688.pdf
 
 Read: —
 Status: Not Started

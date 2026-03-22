@@ -1,6 +1,6 @@
 # Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
 
-Akari Asai et al. | ICLR | 2024 | Link: TBD
+Akari Asai et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2310.11511.pdf
 
 Read: —
 Status: Not Started

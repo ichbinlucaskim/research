@@ -1,6 +1,6 @@
 # MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework
 
-Sirui Hong et al. | ICLR | 2024 | Link: TBD
+Sirui Hong et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2308.00352.pdf
 
 Read: —
 Status: Not Started

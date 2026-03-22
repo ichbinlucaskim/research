@@ -1,6 +1,6 @@
 # Flows: Building Blocks for Reasoning and Collaborating AI
 
-Martin Josifoski et al. (EPFL) | arXiv | 2024 | Link: TBD
+Martin Josifoski et al. (EPFL) | arXiv | 2024 | Link: https://arxiv.org/pdf/2308.01285.pdf
 
 Read: —
 Status: Not Started

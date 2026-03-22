@@ -1,6 +1,6 @@
 # Scaling Laws for Neural Language Models
 
-Jared Kaplan et al. | arXiv | 2020 | Link: TBD
+Jared Kaplan et al. | arXiv | 2020 | Link: https://arxiv.org/pdf/2001.08361.pdf
 
 Read: —
 Status: Not Started

@@ -1,6 +1,6 @@
 # Efficient Memory Management for Large Language Model Serving with PagedAttention (vLLM)
 
-Woosuk Kwon et al. | SOSP | 2023 | Link: TBD
+Woosuk Kwon et al. | SOSP | 2023 | Link: https://arxiv.org/pdf/2309.06180.pdf
 
 Read: —
 Status: Not Started

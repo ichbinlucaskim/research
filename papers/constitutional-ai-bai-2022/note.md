@@ -1,6 +1,6 @@
 # Constitutional AI: Harmlessness from AI Feedback
 
-Yuntao Bai et al. (Anthropic) | arXiv | 2022 | Link: TBD
+Yuntao Bai et al. (Anthropic) | arXiv | 2022 | Link: https://arxiv.org/pdf/2212.08073.pdf
 
 Read: —
 Status: Not Started

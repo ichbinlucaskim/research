@@ -1,6 +1,6 @@
 # Gorilla: Large Language Model Connected with Massive APIs
 
-Shishir G. Patil et al. | arXiv | 2023 | Link: TBD
+Shishir G. Patil et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2305.15334.pdf
 
 Read: —
 Status: Not Started

@@ -1,6 +1,6 @@
 # Executable Code Actions Elevate LLM Agents
 
-Xingyao Wang et al. | ICML | 2024 | Link: TBD
+Xingyao Wang et al. | ICML | 2024 | Link: https://arxiv.org/pdf/2402.01030.pdf
 
 Read: —
 Status: Not Started

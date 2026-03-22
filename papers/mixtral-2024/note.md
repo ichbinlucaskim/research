@@ -1,6 +1,6 @@
 # Mistral 7B / Mixtral 8x7B
 
-Albert Q. Jiang et al. | arXiv | 2024 | Link: TBD
+Albert Q. Jiang et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2401.04088.pdf
 
 Read: —
 Status: Not Started

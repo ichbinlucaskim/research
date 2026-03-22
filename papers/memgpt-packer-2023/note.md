@@ -1,6 +1,6 @@
 # MemGPT: Towards LLMs as Operating Systems
 
-Charles Packer et al. | arXiv | 2023 | Link: TBD
+Charles Packer et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2310.08560.pdf
 
 Read: —
 Status: Not Started

@@ -1,6 +1,6 @@
 # WebArena: A Realistic Web Environment for Building Autonomous Agents
 
-Shuyan Zhou et al. | ICLR | 2024 | Link: TBD
+Shuyan Zhou et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2307.13854.pdf
 
 Read: —
 Status: Not Started

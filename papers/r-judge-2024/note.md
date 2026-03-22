@@ -1,6 +1,6 @@
 # R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
 
-Tongxin Yuan et al. | arXiv | 2024 | Link: TBD
+Tongxin Yuan et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2401.10019.pdf
 
 Read: —
 Status: Not Started

@@ -1,6 +1,6 @@
 # CoALA: Cognitive Architectures for Language Agents
 
-Zijian Wang et al. | arXiv | 2023 | Link: TBD
+Zijian Wang et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2309.02427.pdf
 
 Read: —
 Status: Not Started

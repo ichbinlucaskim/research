@@ -1,6 +1,6 @@
 # LATS: Language Agent Tree Search
 
-Andy Zhou et al. | ICML | 2024 | Link: TBD
+Andy Zhou et al. | ICML | 2024 | Link: https://arxiv.org/pdf/2310.04406.pdf
 
 Read: —
 Status: Not Started

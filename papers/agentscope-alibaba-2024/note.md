@@ -1,6 +1,6 @@
 # AgentScope: A Flexible yet Robust Multi-Agent Platform
 
-Dawei Gao et al. (Alibaba) | arXiv | 2024 | Link: TBD
+Dawei Gao et al. (Alibaba) | arXiv | 2024 | Link: https://arxiv.org/pdf/2402.14034.pdf
 
 Read: —
 Status: Not Started

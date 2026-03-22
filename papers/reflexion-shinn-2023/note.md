@@ -1,6 +1,6 @@
 # Reflexion: Language Agents with Verbal Reinforcement Learning
 
-Noah Shinn et al. | NeurIPS | 2023 | Link: TBD
+Noah Shinn et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2303.11366.pdf
 
 Read: —
 Status: Not Started

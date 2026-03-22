@@ -1,6 +1,6 @@
 # NVIDIA: Smaller LMs for Agents (Nemotron / SLM)
 
-NVIDIA Research | NVIDIA | 2024 | Link: TBD
+NVIDIA Research | NVIDIA | 2024 | Link: https://arxiv.org/pdf/2506.02153.pdf
 
 Read: —
 Status: Not Started

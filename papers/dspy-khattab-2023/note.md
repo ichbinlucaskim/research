@@ -1,6 +1,6 @@
 # DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines
 
-Omar Khattab et al. | ICLR | 2024 | Link: TBD
+Omar Khattab et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2310.03714.pdf
 
 Read: —
 Status: Not Started

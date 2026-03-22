@@ -1,6 +1,6 @@
 # Prompt Injection Attacks on LLM Agents
 
-Various Authors | arXiv | 2023 | Link: TBD
+Various Authors | arXiv | 2023 | Link: https://arxiv.org/pdf/2302.12173.pdf
 
 Read: —
 Status: Not Started

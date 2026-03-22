@@ -1,6 +1,6 @@
 # ReAct: Synergizing Reasoning and Acting in Language Models
 
-Shunyu Yao et al. | ICLR | 2023 | Link: TBD
+Shunyu Yao et al. | ICLR | 2023 | Link: https://arxiv.org/pdf/2210.03629.pdf
 
 Read: —
 Status: Not Started

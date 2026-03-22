@@ -1,6 +1,6 @@
 # Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 
-Jason Wei et al. | NeurIPS | 2022 | Link: TBD
+Jason Wei et al. | NeurIPS | 2022 | Link: https://arxiv.org/pdf/2201.11903.pdf
 
 Read: —
 Status: Not Started

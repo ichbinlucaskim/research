@@ -1,6 +1,6 @@
 # RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval
 
-Parth Sarthi et al. | ICLR | 2024 | Link: TBD
+Parth Sarthi et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2401.18059.pdf
 
 Read: —
 Status: Not Started

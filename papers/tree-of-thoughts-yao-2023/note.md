@@ -1,6 +1,6 @@
 # Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 
-Shunyu Yao et al. | NeurIPS | 2023 | Link: TBD
+Shunyu Yao et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2305.10601.pdf
 
 Read: —
 Status: Not Started

@@ -1,6 +1,6 @@
 # Self-Consistency Improves Chain of Thought Reasoning in Language Models
 
-Xuezhi Wang et al. | ICLR | 2023 | Link: TBD
+Xuezhi Wang et al. | ICLR | 2023 | Link: https://arxiv.org/pdf/2203.11171.pdf
 
 Read: —
 Status: Not Started

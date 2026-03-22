@@ -1,6 +1,6 @@
 # Toolformer: Language Models Can Teach Themselves to Use Tools
 
-Timo Schick et al. | NeurIPS | 2023 | Link: TBD
+Timo Schick et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2302.04761.pdf
 
 Read: —
 Status: Not Started

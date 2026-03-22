@@ -1,6 +1,6 @@
 # The Rise and Potential of Large Language Model Based Agents: A Survey
 
-Zhiheng Xi et al. | arXiv | 2024 | Link: TBD
+Zhiheng Xi et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2309.07864.pdf
 
 Read: —
 Status: Not Started

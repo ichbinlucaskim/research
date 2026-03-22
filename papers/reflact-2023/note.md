@@ -1,6 +1,6 @@
 # ReflAct: Combining Reflexion and ReAct into a Unified Structure
 
-Various Authors | arXiv | 2023 | Link: TBD
+Various Authors | arXiv | 2023 | Link: https://arxiv.org/pdf/2505.15182.pdf
 
 Read: —
 Status: Not Started

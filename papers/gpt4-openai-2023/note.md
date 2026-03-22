@@ -1,6 +1,6 @@
 # GPT-4 Technical Report
 
-OpenAI | arXiv | 2023 | Link: TBD
+OpenAI | arXiv | 2023 | Link: https://arxiv.org/pdf/2303.08774.pdf
 
 Read: —
 Status: Not Started

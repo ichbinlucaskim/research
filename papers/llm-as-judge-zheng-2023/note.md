@@ -1,6 +1,6 @@
 # Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 
-Lianmin Zheng et al. | NeurIPS | 2023 | Link: TBD
+Lianmin Zheng et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2306.05685.pdf
 
 Read: —
 Status: Not Started
