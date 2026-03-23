@@ -14,6 +14,10 @@ Personal research conducted with the rigor of an institutional lab.
 └── projects/        # Small end-to-end systems combining multiple patterns
 ```
 
+- [Papers](#papers)
+- [Experiments](#experiments)
+- [Projects](#projects)
+
 ---
 
 ## Reading Priority
