@@ -2,10 +2,6 @@
 
 Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou | ICLR 2023 | 2023 | Link: https://arxiv.org/pdf/2203.11171.pdf
 
-Read: —
-Status: Not Started
-Section: B
-
 ---
 
 ## One-Line Claim

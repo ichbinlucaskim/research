@@ -2,10 +2,6 @@
 
 Tran, Dao et al. | arXiv | 2025 | Link: https://arxiv.org/pdf/2501.06322.pdf
 
-Read: —
-Status: Not Started
-Section: A
-
 ---
 
 ## One-Line Claim

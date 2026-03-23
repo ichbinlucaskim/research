@@ -2,10 +2,6 @@
 
 Zhiheng Xi et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2309.07864.pdf
 
-Read: —
-Status: Not Started
-Section: L
-
 ---
 
 ## One-Line Claim

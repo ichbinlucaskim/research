@@ -2,10 +2,6 @@
 
 Various Authors | arXiv | 2023 | Link: https://arxiv.org/pdf/2505.15182.pdf
 
-Read: —
-Status: Not Started
-Section: C
-
 ---
 
 ## One-Line Claim

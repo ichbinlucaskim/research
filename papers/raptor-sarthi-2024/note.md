@@ -2,10 +2,6 @@
 
 Parth Sarthi et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2401.18059.pdf
 
-Read: —
-Status: Not Started
-Section: F
-
 ---
 
 ## One-Line Claim

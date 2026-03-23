@@ -2,10 +2,6 @@
 
 Various Authors | arXiv | 2024 | Link: https://multiagents.org/2025_artifacts/reliable_decision_making_for_multi_agent_llm_systems.pdf
 
-Read: —
-Status: Not Started
-Section: G
-
 ---
 
 ## One-Line Claim

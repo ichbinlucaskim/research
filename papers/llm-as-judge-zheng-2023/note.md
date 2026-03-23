@@ -2,10 +2,6 @@
 
 Lianmin Zheng et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2306.05685.pdf
 
-Read: —
-Status: Not Started
-Section: G
-
 ---
 
 ## One-Line Claim

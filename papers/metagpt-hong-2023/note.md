@@ -2,10 +2,6 @@
 
 Sirui Hong et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2308.00352.pdf
 
-Read: —
-Status: Not Started
-Section: E
-
 ---
 
 ## One-Line Claim

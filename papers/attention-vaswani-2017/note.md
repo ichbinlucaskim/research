@@ -2,10 +2,6 @@
 
 Ashish Vaswani et al. | NeurIPS | 2017 | Link: https://arxiv.org/pdf/1706.03762.pdf
 
-Read: —
-Status: Not Started
-Section: I
-
 ---
 
 ## One-Line Claim

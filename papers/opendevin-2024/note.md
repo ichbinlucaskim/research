@@ -2,10 +2,6 @@
 
 Xingyao Wang et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2407.16741.pdf
 
-Read: —
-Status: Not Started
-Section: L
-
 ---
 
 ## One-Line Claim

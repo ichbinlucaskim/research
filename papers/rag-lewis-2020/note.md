@@ -2,10 +2,6 @@
 
 Patrick Lewis et al. | NeurIPS | 2020 | Link: https://arxiv.org/pdf/2005.11401.pdf
 
-Read: —
-Status: Not Started
-Section: F
-
 ---
 
 ## One-Line Claim

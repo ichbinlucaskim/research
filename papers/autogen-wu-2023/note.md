@@ -2,10 +2,6 @@
 
 Qingyun Wu et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2308.08155.pdf
 
-Read: —
-Status: Not Started
-Section: E
-
 ---
 
 ## One-Line Claim

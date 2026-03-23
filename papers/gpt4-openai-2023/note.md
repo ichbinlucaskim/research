@@ -2,10 +2,6 @@
 
 OpenAI | arXiv | 2023 | Link: https://arxiv.org/pdf/2303.08774.pdf
 
-Read: —
-Status: Not Started
-Section: I
-
 ---
 
 ## One-Line Claim

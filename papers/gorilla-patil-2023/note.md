@@ -2,10 +2,6 @@
 
 Shishir G. Patil et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2305.15334.pdf
 
-Read: —
-Status: Not Started
-Section: D
-
 ---
 
 ## One-Line Claim

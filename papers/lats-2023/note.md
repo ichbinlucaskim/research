@@ -2,10 +2,6 @@
 
 Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang | ICML 2024 | 2023 | Link: https://arxiv.org/pdf/2310.04406.pdf
 
-Read: —
-Status: Not Started
-Section: B
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Yaniv Leviathan et al. | ICML | 2023 | Link: https://arxiv.org/pdf/2211.17192.pdf
 
-Read: —
-Status: Not Started
-Section: J
-
 ---
 
 ## One-Line Claim

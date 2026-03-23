@@ -2,10 +2,6 @@
 
 Carlos E. Jimenez et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2310.06770.pdf
 
-Read: —
-Status: Not Started
-Section: G
-
 ---
 
 ## One-Line Claim

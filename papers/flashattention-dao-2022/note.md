@@ -2,10 +2,6 @@
 
 Tri Dao et al. | NeurIPS | 2022 | Link: https://arxiv.org/pdf/2205.14135.pdf
 
-Read: —
-Status: Not Started
-Section: J
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Yujia Qin et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2307.16789.pdf
 
-Read: —
-Status: Not Started
-Section: D
-
 ---
 
 ## One-Line Claim

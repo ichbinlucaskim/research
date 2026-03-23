@@ -4,10 +4,6 @@ IBM Research | IBM Think Insights | 2025 | Link: https://www.ibm.com/think/insig
 
 PDF: Not available — IBM Think Insights article, not an academic paper. Read online at https://www.ibm.com/think/insights/ai-agents-2025-expectations-vs-reality
 
-Read: —
-Status: Not Started
-Section: G
-
 ---
 
 ## One-Line Claim

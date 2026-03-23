@@ -2,10 +2,6 @@
 
 Akari Asai et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2310.11511.pdf
 
-Read: —
-Status: Not Started
-Section: F
-
 ---
 
 ## One-Line Claim

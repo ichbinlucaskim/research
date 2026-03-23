@@ -2,10 +2,6 @@
 
 Omar Khattab et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2310.03714.pdf
 
-Read: —
-Status: Not Started
-Section: K
-
 ---
 
 ## One-Line Claim

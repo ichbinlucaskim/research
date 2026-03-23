@@ -2,10 +2,6 @@
 
 Xiao Liu et al. | ICLR | 2024 | Link: https://arxiv.org/pdf/2308.03688.pdf
 
-Read: —
-Status: Not Started
-Section: G
-
 ---
 
 ## One-Line Claim

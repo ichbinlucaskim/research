@@ -2,10 +2,6 @@
 
 Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan | NeurIPS 2023 | 2023 | Link: https://arxiv.org/pdf/2305.10601.pdf
 
-Read: —
-Status: Not Started
-Section: B
-
 ---
 
 ## One-Line Claim

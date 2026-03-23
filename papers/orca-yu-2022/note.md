@@ -2,10 +2,6 @@
 
 Gyeong-In Yu et al. | OSDI | 2022 | Link: https://www.usenix.org/system/files/osdi22-yu.pdf
 
-Read: —
-Status: Not Started
-Section: J
-
 ---
 
 ## One-Line Claim

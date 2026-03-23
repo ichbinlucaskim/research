@@ -2,10 +2,6 @@
 
 Taicheng Guo, Xiuying Chen, Yaqi Wang et al. | IJCAI 2024 | 2024 | Link: https://arxiv.org/pdf/2402.01680.pdf
 
-Read: —
-Status: Not Started
-Section: A
-
 ---
 
 ## One-Line Claim

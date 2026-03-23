@@ -2,10 +2,6 @@
 
 Albert Q. Jiang et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2401.04088.pdf
 
-Read: —
-Status: Not Started
-Section: I
-
 ---
 
 ## One-Line Claim

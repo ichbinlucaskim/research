@@ -2,10 +2,6 @@
 
 Junda He, Christoph Treude, David Lo | ACM TOSEM | 2024 | Link: https://arxiv.org/pdf/2404.04834.pdf
 
-Read: —
-Status: Not Started
-Section: A
-
 ---
 
 ## One-Line Claim

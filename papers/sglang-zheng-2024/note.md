@@ -2,10 +2,6 @@
 
 Lianmin Zheng et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2312.07104.pdf
 
-Read: —
-Status: Not Started
-Section: J
-
 ---
 
 ## One-Line Claim

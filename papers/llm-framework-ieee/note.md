@@ -4,10 +4,6 @@ Various Authors | IEEE | 2024 | Link: https://ieeexplore.ieee.org/document/11077
 
 PDF: Not available — IEEE Xplore paywalled, no open-access preprint found. Read online at https://ieeexplore.ieee.org/document/11077480
 
-Read: —
-Status: Not Started
-Section: A
-
 ---
 
 ## One-Line Claim

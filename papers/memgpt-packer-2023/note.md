@@ -2,10 +2,6 @@
 
 Charles Packer et al. | arXiv | 2023 | Link: https://arxiv.org/pdf/2310.08560.pdf
 
-Read: —
-Status: Not Started
-Section: F
-
 ---
 
 ## One-Line Claim

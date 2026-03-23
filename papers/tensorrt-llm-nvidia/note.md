@@ -2,10 +2,6 @@
 
 NVIDIA | NVIDIA Docs | 2024 | Link: https://nvidia.github.io/TensorRT-LLM/ — documentation only, no public PDF
 
-Read: —
-Status: Not Started
-Section: J
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Petr Belcak, Rainer W. Heinrichs (NVIDIA Research) | arXiv | 2025 | Link: https://arxiv.org/pdf/2506.02153.pdf
 
-Read: —
-Status: Not Started
-Section: A
-
 ---
 
 ## One-Line Claim

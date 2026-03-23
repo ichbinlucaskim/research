@@ -2,10 +2,6 @@
 
 Anthropic | Anthropic | 2024 | Link: https://www.anthropic.com/research/model-specification — web document only, no public PDF
 
-Read: —
-Status: Not Started
-Section: L
-
 ---
 
 ## One-Line Claim

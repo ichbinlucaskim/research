@@ -2,10 +2,6 @@
 
 Xingyao Wang et al. | ICML | 2024 | Link: https://arxiv.org/pdf/2402.01030.pdf
 
-Read: —
-Status: Not Started
-Section: K
-
 ---
 
 ## One-Line Claim

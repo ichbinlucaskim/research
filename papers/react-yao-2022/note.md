@@ -2,10 +2,6 @@
 
 Shunyu Yao et al. | ICLR | 2023 | Link: https://arxiv.org/pdf/2210.03629.pdf
 
-Read: —
-Status: Not Started
-Section: C
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Yongliang Shen et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2303.17580.pdf
 
-Read: —
-Status: Not Started
-Section: E
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Hugo Touvron et al. (Meta) | arXiv | 2023 | Link: https://arxiv.org/pdf/2307.09288.pdf
 
-Read: —
-Status: Not Started
-Section: I
-
 ---
 
 ## One-Line Claim

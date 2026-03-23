@@ -2,10 +2,6 @@
 
 Yuntao Bai et al. (Anthropic) | arXiv | 2022 | Link: https://arxiv.org/pdf/2212.08073.pdf
 
-Read: —
-Status: Not Started
-Section: H
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou | NeurIPS 2022 | 2022 | Link: https://arxiv.org/pdf/2201.11903.pdf
 
-Read: —
-Status: Not Started
-Section: B
-
 ---
 
 ## One-Line Claim

@@ -2,10 +2,6 @@
 
 Zora Zheng Wang et al. | arXiv | 2024 | Link: https://arxiv.org/pdf/2409.07429.pdf
 
-Read: —
-Status: Not Started
-Section: L
-
 ---
 
 ## One-Line Claim

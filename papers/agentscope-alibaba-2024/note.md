@@ -2,10 +2,6 @@
 
 Dawei Gao et al. (Alibaba) | arXiv | 2024 | Link: https://arxiv.org/pdf/2402.14034.pdf
 
-Read: —
-Status: Not Started
-Section: L
-
 ---
 
 ## One-Line Claim

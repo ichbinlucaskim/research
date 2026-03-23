@@ -2,10 +2,6 @@
 
 Guohao Li et al. | NeurIPS | 2023 | Link: https://arxiv.org/pdf/2303.17760.pdf
 
-Read: —
-Status: Not Started
-Section: E
-
 ---
 
 ## One-Line Claim
