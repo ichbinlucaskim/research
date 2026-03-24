@@ -193,7 +193,9 @@ This is the category most agent builders ignore, and the one NVIDIA operates at.
 | [SGLang (Zheng et al., 2024)](./papers/sglang-zheng-2024/note.md) | Structured generation and agent-specific inference optimization. Radix attention for prefix caching |
 | [TensorRT-LLM (NVIDIA documentation)](./papers/tensorrt-llm-nvidia/note.md) | If you are building on NVIDIA hardware, this is not optional reading |
 
-Experiments: [`experiments/inference-serving-comparison`](./comprehensive-experiments/inference-serving-comparison/README.md), [`experiments/latency-cost-profiling`](./comprehensive-experiments/latency-cost-profiling/README.md), [`experiments/speculative-decoding-impact`](./comprehensive-experiments/speculative-decoding-impact/README.md), [`experiments/context-window-scaling`](./comprehensive-experiments/context-window-scaling/README.md)
+Note: Experiments for this section require dedicated server infrastructure
+and are deferred. Folder scaffolds will be added when the environment
+is available.
 
 ---
 
@@ -284,17 +286,6 @@ Run these first. They establish the empirical intuitions that everything else bu
 | [`experiments/dspy-vs-manual-prompting`](./comprehensive-experiments/dspy-vs-manual-prompting/README.md) | Hand-tuned prompts vs. DSPy compiled prompts. Accuracy, iteration time, sensitivity to model version changes | DSPy |
 
 ---
-
-### Experiment Group 5: Inference and Systems
-
-These require infrastructure work. This tier is what separates application-layer builders from systems-level architects.
-
-| Folder | What is being compared | Key papers |
-|---|---|---|
-| [`experiments/inference-serving-comparison`](./comprehensive-experiments/inference-serving-comparison/README.md) | Naive sequential inference vs. continuous batching vs. PagedAttention. Throughput and latency under concurrent agent load | vLLM, Orca |
-| [`experiments/latency-cost-profiling`](./comprehensive-experiments/latency-cost-profiling/README.md) | Full agent loop profiling. Where time and tokens are actually spent: reasoning / retrieval / tool call / generation breakdown | FlashAttention, vLLM |
-| [`experiments/speculative-decoding-impact`](./comprehensive-experiments/speculative-decoding-impact/README.md) | Standard decoding vs. speculative decoding in latency-sensitive agent loops. Token/s and accuracy preservation | Speculative Decoding |
-| [`experiments/context-window-scaling`](./comprehensive-experiments/context-window-scaling/README.md) | Fixed short context vs. MemGPT-style virtual context vs. single long-context model. Cost and coherence at scale | MemGPT, FlashAttention |
 
 ---
 
