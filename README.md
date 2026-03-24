@@ -9,14 +9,14 @@ Personal research conducted with the rigor of an institutional lab.
 
 ```
 /
-├── papers/          # Paper notes: summary, core ideas, implementation angles
-├── experiments/     # Controlled pattern comparison experiments
-└── projects/        # Small end-to-end systems combining multiple patterns
+├── papers/                      # Paper notes: summary, core ideas, implementation angles
+├── comprehensive-experiments/   # Controlled pattern comparison experiments
+└── research-projects/           # Projects justified by experiment findings
 ```
 
 - [Papers](#papers)
-- [Experiments](#experiments)
-- [Projects](#projects)
+- [Comprehensive Experiments](#comprehensive-experiments)
+- [Research Projects](#research-projects)
 
 ---
 
@@ -71,7 +71,7 @@ ReAct without understanding its reasoning lineage is a partial understanding. Re
 | [Tree of Thoughts (Yao et al., 2023)](./papers/tree-of-thoughts-yao-2023/note.md) | Breaks linear reasoning into tree search. Enables backtracking and exploration. Direct predecessor to LATS |
 | [LATS: Language Agent Tree Search (2023)](./papers/lats-2023/note.md) | Integrates ToT + MCTS + ReAct. Currently the strongest single-agent planning architecture |
 
-Experiments: [`experiments/reasoning-evolution`](./experiments/reasoning-evolution/README.md)
+Experiments: [`experiments/reasoning-evolution`](./comprehensive-experiments/reasoning-evolution/README.md)
 
 ---
 
@@ -86,7 +86,7 @@ The canonical agent loop and its direct extensions.
 | [ReflAct](./papers/reflact-2023/note.md) | Combines Reflexion + ReAct into a unified structure |
 | [FuseMind: Fusing Reflection and Prediction in Agents](./papers/fusemind-2023/note.md) | Adds next-action prediction to reflection. Efficiency improvement through anticipation |
 
-Experiments: [`experiments/react-vs-cot`](./experiments/react-vs-cot/README.md), [`experiments/react-vs-reflexion-vs-fusemind`](./experiments/react-vs-reflexion-vs-fusemind/README.md)
+Experiments: [`experiments/react-vs-cot`](./comprehensive-experiments/react-vs-cot/README.md), [`experiments/react-vs-reflexion-vs-fusemind`](./comprehensive-experiments/react-vs-reflexion-vs-fusemind/README.md)
 
 ---
 
@@ -100,7 +100,7 @@ Tool calling is the agent's interface to the world. Without this lineage, half o
 | [Gorilla (Patil et al., 2023)](./papers/gorilla-patil-2023/note.md) | API-call-specialized LLM. Core reference for how tool specifications are injected into context |
 | [ToolBench / ToolLLM (Qin et al., 2023)](./papers/toolbench-qin-2023/note.md) | 16,000-API benchmark + DFS decision tree for tool selection. Largest tool-use evaluation suite |
 
-Experiments: [`experiments/tool-use-strategies`](./experiments/tool-use-strategies/README.md)
+Experiments: [`experiments/tool-use-strategies`](./comprehensive-experiments/tool-use-strategies/README.md)
 
 ---
 
@@ -115,7 +115,7 @@ Not surveys. These are the papers that actually defined the implementation patte
 | [CAMEL (Li et al., 2023)](./papers/camel-li-2023/note.md) | Role-playing for autonomous agent-to-agent collaboration. Inception prompting concept |
 | [HuggingGPT / JARVIS (Shen et al., 2023)](./papers/hugginggpt-shen-2023/note.md) | LLM as controller, external specialized models as tools. Canonical orchestration pattern |
 
-Experiments: [`experiments/multi-agent-patterns`](./experiments/multi-agent-patterns/README.md)
+Experiments: [`experiments/multi-agent-patterns`](./comprehensive-experiments/multi-agent-patterns/README.md)
 
 ---
 
@@ -131,7 +131,7 @@ RAG alone is not a memory architecture. This section covers the full stack from 
 | [Self-RAG (Asai et al., 2023)](./papers/self-rag-asai-2023/note.md) | Model decides whether retrieval is needed at all. Defines the always-retrieve vs. selective-retrieve tradeoff |
 | [RAPTOR (Sarthi et al., 2024)](./papers/raptor-sarthi-2024/note.md) | Recursive document summarization into tree-indexed structures. Current best practice for long-document RAG |
 
-Experiments: [`experiments/rag-comparison`](./experiments/rag-comparison/README.md), [`experiments/rag-retriever-strategies`](./experiments/rag-retriever-strategies/README.md), [`experiments/self-rag-vs-naive-rag`](./experiments/self-rag-vs-naive-rag/README.md), [`experiments/memory-architecture`](./experiments/memory-architecture/README.md), [`experiments/raptor-vs-flat-rag`](./experiments/raptor-vs-flat-rag/README.md)
+Experiments: [`experiments/rag-comparison`](./comprehensive-experiments/rag-comparison/README.md), [`experiments/rag-retriever-strategies`](./comprehensive-experiments/rag-retriever-strategies/README.md), [`experiments/self-rag-vs-naive-rag`](./comprehensive-experiments/self-rag-vs-naive-rag/README.md), [`experiments/memory-architecture`](./comprehensive-experiments/memory-architecture/README.md), [`experiments/raptor-vs-flat-rag`](./comprehensive-experiments/raptor-vs-flat-rag/README.md)
 
 ---
 
@@ -148,7 +148,7 @@ How to aggregate agent outputs to improve reliability, and how real deployments 
 | [WebArena (Zhou et al., 2023)](./papers/webarena-zhou-2023/note.md) | Realistic web task automation benchmark with live environments |
 | [LLM-as-a-Judge (Zheng et al., 2023)](./papers/llm-as-judge-zheng-2023/note.md) | Using LLMs to evaluate LLM outputs. Foundation for automated evaluation pipelines |
 
-Experiments: [`experiments/aggregation-reliability`](./experiments/aggregation-reliability/README.md), [`experiments/monitoring-ops`](./experiments/monitoring-ops/README.md), [`experiments/llm-as-judge-pipeline`](./experiments/llm-as-judge-pipeline/README.md)
+Experiments: [`experiments/aggregation-reliability`](./comprehensive-experiments/aggregation-reliability/README.md), [`experiments/monitoring-ops`](./comprehensive-experiments/monitoring-ops/README.md), [`experiments/llm-as-judge-pipeline`](./comprehensive-experiments/llm-as-judge-pipeline/README.md)
 
 ---
 
@@ -162,7 +162,7 @@ Once an agent takes real actions, safety is an architectural constraint, not an 
 | [R-Judge / Agent Safety Bench (2024)](./papers/r-judge-2024/note.md) | Benchmark for detecting dangerous actions in agent environments |
 | [Prompt Injection Attacks on LLM Agents (2023+)](./papers/prompt-injection-2023/note.md) | Instruction injection from external data. The primary attack surface for RAG + tool agents |
 
-Experiments: [`experiments/guard-agent`](./experiments/guard-agent/README.md), [`experiments/prompt-injection-defense`](./experiments/prompt-injection-defense/README.md)
+Experiments: [`experiments/guard-agent`](./comprehensive-experiments/guard-agent/README.md), [`experiments/prompt-injection-defense`](./comprehensive-experiments/prompt-injection-defense/README.md)
 
 ---
 
@@ -193,7 +193,7 @@ This is the category most agent builders ignore, and the one NVIDIA operates at.
 | [SGLang (Zheng et al., 2024)](./papers/sglang-zheng-2024/note.md) | Structured generation and agent-specific inference optimization. Radix attention for prefix caching |
 | [TensorRT-LLM (NVIDIA documentation)](./papers/tensorrt-llm-nvidia/note.md) | If you are building on NVIDIA hardware, this is not optional reading |
 
-Experiments: [`experiments/inference-serving-comparison`](./experiments/inference-serving-comparison/README.md), [`experiments/latency-cost-profiling`](./experiments/latency-cost-profiling/README.md), [`experiments/speculative-decoding-impact`](./experiments/speculative-decoding-impact/README.md), [`experiments/context-window-scaling`](./experiments/context-window-scaling/README.md)
+Experiments: [`experiments/inference-serving-comparison`](./comprehensive-experiments/inference-serving-comparison/README.md), [`experiments/latency-cost-profiling`](./comprehensive-experiments/latency-cost-profiling/README.md), [`experiments/speculative-decoding-impact`](./comprehensive-experiments/speculative-decoding-impact/README.md), [`experiments/context-window-scaling`](./comprehensive-experiments/context-window-scaling/README.md)
 
 ---
 
@@ -208,7 +208,7 @@ What separates someone who builds agents from someone who architects agent syste
 | [Flows: Building Blocks for Multi-Agent Systems (EPFL, 2024)](./papers/flows-epfl-2024/note.md) | Formal treatment of agent composition. Most rigorous available framework for agent interface design |
 | [DSPy (Khattab et al., 2023 / 2024)](./papers/dspy-khattab-2023/note.md) | Programmatic prompt optimization. Changes how you think about prompt engineering: from manual tuning to compiled programs |
 
-Experiments: [`experiments/code-vs-json-action-space`](./experiments/code-vs-json-action-space/README.md), [`experiments/dspy-vs-manual-prompting`](./experiments/dspy-vs-manual-prompting/README.md)
+Experiments: [`experiments/code-vs-json-action-space`](./comprehensive-experiments/code-vs-json-action-space/README.md), [`experiments/dspy-vs-manual-prompting`](./comprehensive-experiments/dspy-vs-manual-prompting/README.md)
 
 ---
 
@@ -234,7 +234,7 @@ The earlier sections skew heavily toward 2023. These close the gap to the curren
 
 ---
 
-## Experiments
+## Comprehensive Experiments
 
 Every experiment follows the same measurement structure: identical task, varying architecture or strategy, evaluated across performance / latency / token cost / failure rate.
 
@@ -246,10 +246,10 @@ Run these first. They establish the empirical intuitions that everything else bu
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/react-vs-cot`](./experiments/react-vs-cot/README.md) | CoT only vs. ReAct + tool calls on identical tasks. Success rate, failure mode analysis | ReAct, Chain-of-Thought |
-| [`experiments/react-vs-reflexion-vs-fusemind`](./experiments/react-vs-reflexion-vs-fusemind/README.md) | ReAct vs. ReAct + Reflection vs. FuseMind on multi-step reasoning. Accuracy, attempt count, token cost | Reflexion, [ReflAct](./papers/reflact-2023/note.md), FuseMind |
-| [`experiments/reasoning-evolution`](./experiments/reasoning-evolution/README.md) | CoT -> Self-Consistency -> ToT -> LATS: accuracy and cost at each step of the evolution | CoT, Self-Consistency, ToT, LATS |
-| [`experiments/multi-agent-patterns`](./experiments/multi-agent-patterns/README.md) | Single LLM vs. Planner-Worker vs. 3-4 agent collaboration on a complex task. Performance, latency, cost | AutoGen, MetaGPT, CAMEL |
+| [`experiments/react-vs-cot`](./comprehensive-experiments/react-vs-cot/README.md) | CoT only vs. ReAct + tool calls on identical tasks. Success rate, failure mode analysis | ReAct, Chain-of-Thought |
+| [`experiments/react-vs-reflexion-vs-fusemind`](./comprehensive-experiments/react-vs-reflexion-vs-fusemind/README.md) | ReAct vs. ReAct + Reflection vs. FuseMind on multi-step reasoning. Accuracy, attempt count, token cost | Reflexion, [ReflAct](./papers/reflact-2023/note.md), FuseMind |
+| [`experiments/reasoning-evolution`](./comprehensive-experiments/reasoning-evolution/README.md) | CoT -> Self-Consistency -> ToT -> LATS: accuracy and cost at each step of the evolution | CoT, Self-Consistency, ToT, LATS |
+| [`experiments/multi-agent-patterns`](./comprehensive-experiments/multi-agent-patterns/README.md) | Single LLM vs. Planner-Worker vs. 3-4 agent collaboration on a complex task. Performance, latency, cost | AutoGen, MetaGPT, CAMEL |
 
 ---
 
@@ -257,11 +257,11 @@ Run these first. They establish the empirical intuitions that everything else bu
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/rag-comparison`](./experiments/rag-comparison/README.md) | No-RAG vs. naive RAG vs. task-specific structured RAG. Answer quality and hallucination rate | RAG original |
-| [`experiments/rag-retriever-strategies`](./experiments/rag-retriever-strategies/README.md) | DPR dense retrieval vs. embedding search vs. keyword search. Quality and speed tradeoffs | RAG, RAPTOR |
-| [`experiments/self-rag-vs-naive-rag`](./experiments/self-rag-vs-naive-rag/README.md) | Always-retrieve vs. model-decides-when-to-retrieve. Accuracy, latency, unnecessary retrieval rate | Self-RAG |
-| [`experiments/memory-architecture`](./experiments/memory-architecture/README.md) | No memory vs. flat conversation history vs. CoALA-style layered memory. Task coherence over long sessions | MemGPT, CoALA |
-| [`experiments/raptor-vs-flat-rag`](./experiments/raptor-vs-flat-rag/README.md) | Flat chunk indexing vs. RAPTOR recursive tree indexing on long documents. Recall and coherence | RAPTOR |
+| [`experiments/rag-comparison`](./comprehensive-experiments/rag-comparison/README.md) | No-RAG vs. naive RAG vs. task-specific structured RAG. Answer quality and hallucination rate | RAG original |
+| [`experiments/rag-retriever-strategies`](./comprehensive-experiments/rag-retriever-strategies/README.md) | DPR dense retrieval vs. embedding search vs. keyword search. Quality and speed tradeoffs | RAG, RAPTOR |
+| [`experiments/self-rag-vs-naive-rag`](./comprehensive-experiments/self-rag-vs-naive-rag/README.md) | Always-retrieve vs. model-decides-when-to-retrieve. Accuracy, latency, unnecessary retrieval rate | Self-RAG |
+| [`experiments/memory-architecture`](./comprehensive-experiments/memory-architecture/README.md) | No memory vs. flat conversation history vs. CoALA-style layered memory. Task coherence over long sessions | MemGPT, CoALA |
+| [`experiments/raptor-vs-flat-rag`](./comprehensive-experiments/raptor-vs-flat-rag/README.md) | Flat chunk indexing vs. RAPTOR recursive tree indexing on long documents. Recall and coherence | RAPTOR |
 
 ---
 
@@ -269,9 +269,9 @@ Run these first. They establish the empirical intuitions that everything else bu
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/aggregation-reliability`](./experiments/aggregation-reliability/README.md) | Single agent vs. majority vote vs. weighted vote vs. critic-agent final selection. Confidence calibration | Reliable Decision-Making, Self-Consistency |
-| [`experiments/llm-as-judge-pipeline`](./experiments/llm-as-judge-pipeline/README.md) | Human evaluation vs. LLM-as-Judge correlation measurement. Failure mode analysis under adversarial outputs | LLM-as-Judge |
-| [`experiments/monitoring-ops`](./experiments/monitoring-ops/README.md) | Collect agent execution logs, cluster failure patterns, identify input types with high failure rates | AI Agents: Expectations vs. Reality |
+| [`experiments/aggregation-reliability`](./comprehensive-experiments/aggregation-reliability/README.md) | Single agent vs. majority vote vs. weighted vote vs. critic-agent final selection. Confidence calibration | Reliable Decision-Making, Self-Consistency |
+| [`experiments/llm-as-judge-pipeline`](./comprehensive-experiments/llm-as-judge-pipeline/README.md) | Human evaluation vs. LLM-as-Judge correlation measurement. Failure mode analysis under adversarial outputs | LLM-as-Judge |
+| [`experiments/monitoring-ops`](./comprehensive-experiments/monitoring-ops/README.md) | Collect agent execution logs, cluster failure patterns, identify input types with high failure rates | AI Agents: Expectations vs. Reality |
 
 ---
 
@@ -279,9 +279,9 @@ Run these first. They establish the empirical intuitions that everything else bu
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/tool-use-strategies`](./experiments/tool-use-strategies/README.md) | Tool spec injection methods: description density, example count, structured vs. free-form. DFS vs. greedy tool selection | Toolformer, Gorilla, ToolBench |
-| [`experiments/code-vs-json-action-space`](./experiments/code-vs-json-action-space/README.md) | JSON action representation vs. Python code as actions. Task success rate, error recovery, generalization to unseen tasks | Executable Code Actions |
-| [`experiments/dspy-vs-manual-prompting`](./experiments/dspy-vs-manual-prompting/README.md) | Hand-tuned prompts vs. DSPy compiled prompts. Accuracy, iteration time, sensitivity to model version changes | DSPy |
+| [`experiments/tool-use-strategies`](./comprehensive-experiments/tool-use-strategies/README.md) | Tool spec injection methods: description density, example count, structured vs. free-form. DFS vs. greedy tool selection | Toolformer, Gorilla, ToolBench |
+| [`experiments/code-vs-json-action-space`](./comprehensive-experiments/code-vs-json-action-space/README.md) | JSON action representation vs. Python code as actions. Task success rate, error recovery, generalization to unseen tasks | Executable Code Actions |
+| [`experiments/dspy-vs-manual-prompting`](./comprehensive-experiments/dspy-vs-manual-prompting/README.md) | Hand-tuned prompts vs. DSPy compiled prompts. Accuracy, iteration time, sensitivity to model version changes | DSPy |
 
 ---
 
@@ -291,10 +291,10 @@ These require infrastructure work. This tier is what separates application-layer
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/inference-serving-comparison`](./experiments/inference-serving-comparison/README.md) | Naive sequential inference vs. continuous batching vs. PagedAttention. Throughput and latency under concurrent agent load | vLLM, Orca |
-| [`experiments/latency-cost-profiling`](./experiments/latency-cost-profiling/README.md) | Full agent loop profiling. Where time and tokens are actually spent: reasoning / retrieval / tool call / generation breakdown | FlashAttention, vLLM |
-| [`experiments/speculative-decoding-impact`](./experiments/speculative-decoding-impact/README.md) | Standard decoding vs. speculative decoding in latency-sensitive agent loops. Token/s and accuracy preservation | Speculative Decoding |
-| [`experiments/context-window-scaling`](./experiments/context-window-scaling/README.md) | Fixed short context vs. MemGPT-style virtual context vs. single long-context model. Cost and coherence at scale | MemGPT, FlashAttention |
+| [`experiments/inference-serving-comparison`](./comprehensive-experiments/inference-serving-comparison/README.md) | Naive sequential inference vs. continuous batching vs. PagedAttention. Throughput and latency under concurrent agent load | vLLM, Orca |
+| [`experiments/latency-cost-profiling`](./comprehensive-experiments/latency-cost-profiling/README.md) | Full agent loop profiling. Where time and tokens are actually spent: reasoning / retrieval / tool call / generation breakdown | FlashAttention, vLLM |
+| [`experiments/speculative-decoding-impact`](./comprehensive-experiments/speculative-decoding-impact/README.md) | Standard decoding vs. speculative decoding in latency-sensitive agent loops. Token/s and accuracy preservation | Speculative Decoding |
+| [`experiments/context-window-scaling`](./comprehensive-experiments/context-window-scaling/README.md) | Fixed short context vs. MemGPT-style virtual context vs. single long-context model. Cost and coherence at scale | MemGPT, FlashAttention |
 
 ---
 
@@ -302,63 +302,17 @@ These require infrastructure work. This tier is what separates application-layer
 
 | Folder | What is being compared | Key papers |
 |---|---|---|
-| [`experiments/guard-agent`](./experiments/guard-agent/README.md) | No guard vs. rule-based filter vs. Constitutional AI critic. Dangerous action detection rate and false positive rate | Constitutional AI, R-Judge |
-| [`experiments/prompt-injection-defense`](./experiments/prompt-injection-defense/README.md) | Baseline agent vs. sanitized input agent vs. instruction-hierarchy agent. Injection success rate under adversarial inputs | Prompt Injection Attacks |
+| [`experiments/guard-agent`](./comprehensive-experiments/guard-agent/README.md) | No guard vs. rule-based filter vs. Constitutional AI critic. Dangerous action detection rate and false positive rate | Constitutional AI, R-Judge |
+| [`experiments/prompt-injection-defense`](./comprehensive-experiments/prompt-injection-defense/README.md) | Baseline agent vs. sanitized input agent vs. instruction-hierarchy agent. Injection success rate under adversarial inputs | Prompt Injection Attacks |
 
 ---
 
-## Projects
+## Research Projects
 
-Each project delivers a minimum working version within one day to one week. The goal is to combine patterns validated in experiments into something functional, not to produce polished software.
+Projects originate from findings in comprehensive-experiments.
+No project is started before the experiment that justifies it is complete.
 
----
-
-### A. Workflow / Coding / Research Tools
-
-| Project | Architecture | Linked experiments |
-|---|---|---|
-| [`projects/research-operator-v0`](./projects/research-operator-v0/README.md) | Retriever + Summarizer + Applicator agents. URL input -> summary + core ideas + 3 implementation angles | rag-comparison, react-vs-cot |
-| [`projects/code-review-agent-v0`](./projects/code-review-agent-v0/README.md) | PR diff input -> change summary + bug and style issues + test suggestions | react-vs-reflexion-vs-fusemind, tool-use-strategies |
-| [`projects/experiment-log-analyzer`](./projects/experiment-log-analyzer/README.md) | Experiment results table or log -> trend analysis + failure cases + next experiment suggestions | llm-as-judge-pipeline, monitoring-ops |
-
----
-
-### B. Multi-Agent Structure Practice
-
-| Project | Architecture | Linked experiments |
-|---|---|---|
-| [`projects/planner-researcher-writer`](./projects/planner-researcher-writer/README.md) | Planner -> Researcher -> Writer three-agent pipeline. Topic input -> research plan -> document search -> report | multi-agent-patterns, rag-comparison |
-| [`projects/bug-triage-team`](./projects/bug-triage-team/README.md) | Classifier + Root-Cause Guesser + Fix Planner. Issue ticket or log input -> collaborative triage output | multi-agent-patterns, aggregation-reliability |
-
----
-
-### C. Memory / RAG / Context Practice
-
-| Project | Architecture | Linked experiments |
-|---|---|---|
-| [`projects/personal-note-rag`](./projects/personal-note-rag/README.md) | Full index of personal notes, blogs, and documents. Query -> relevant notes + past idea summary with selective retrieval | rag-retriever-strategies, self-rag-vs-naive-rag, memory-architecture |
-| [`projects/task-memory-agent`](./projects/task-memory-agent/README.md) | Agent that tracks job applications, positions, and interview history. Auto-saves new entries, provides next-session reminders | memory-architecture, rag-comparison |
-
----
-
-### D. Reliability / Ops Practice
-
-| Project | Architecture | Linked experiments |
-|---|---|---|
-| [`projects/agent-execution-viewer`](./projects/agent-execution-viewer/README.md) | Records all agent calls. Dashboard showing success rate, latency, and cost broken down by agent and time window | monitoring-ops, aggregation-reliability |
-| [`projects/guard-critic-agent`](./projects/guard-critic-agent/README.md) | Reviews outputs of other agents. Blocks dangerous actions and attaches a confidence score and risk comment | guard-agent, aggregation-reliability |
-
----
-
-### E. Systems-Level Projects
-
-These do not exist in the original plan. They are added because an agent architect who cannot build or reason about the serving layer is operating with a fundamental blind spot.
-
-| Project | Architecture | Linked experiments |
-|---|---|---|
-| [`projects/agent-inference-profiler`](./projects/agent-inference-profiler/README.md) | Wraps any agent loop with instrumentation. Reports per-call token count, time-to-first-token, total latency, cost estimate, and KV cache hit rate | latency-cost-profiling, inference-serving-comparison |
-| [`projects/streaming-agent-server`](./projects/streaming-agent-server/README.md) | FastAPI + vLLM backend serving an agent loop with streaming output. Handles concurrent requests with continuous batching | inference-serving-comparison, context-window-scaling |
-| [`projects/dspy-optimized-agent`](./projects/dspy-optimized-agent/README.md) | Takes an existing manually-prompted agent, rewrites it in DSPy, runs compiled optimization against a small labeled dataset, compares before and after | dspy-vs-manual-prompting |
+See: [research-projects/README.md](./research-projects/README.md)
 
 ---
 
